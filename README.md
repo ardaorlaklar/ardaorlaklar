@@ -1,1 +1,2 @@
-Hi I'm Arda. I am in Computer Science department at Bilkent University and I'm a freshman. 
+Hi I'm Arda!
+I am a freshman Computer Science student at Bilkent University.
